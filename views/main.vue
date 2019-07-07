@@ -10,3 +10,14 @@
         <button>Share</button>
     </div>
 </template>
+
+<script>
+var mod= {
+    data: function () {
+        return {
+            title: ''
+        }
+    }
+}
+module.exports = mod;
+</script>
