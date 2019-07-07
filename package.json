@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.5.1",
     "cookie-parser": "~1.4.3",
